@@ -1,3 +1,4 @@
+//*******************For Loop******************* */
 // 1.
 // minimalni topuvchi function ikkita son orasida
 const min=(a,b)=>{
@@ -18,7 +19,7 @@ const pow=(a,b)=>{
 }
  console.log(pow(3,3));
 //  3.
-// tub sonni topuvchi foor
+// tub sonni topuvchi for
  let counter=0;
 for(i=2; i<=100; i++){
     for(j=2;j<=i;j++){
